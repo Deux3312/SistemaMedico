@@ -1,0 +1,93 @@
+Entiendo, necesitas un diagrama de flujo más detallado que cubra todos los procesos desde el registro de empresas y mantenimiento de datos hasta la gestión completa del ciclo de atención médica, incluyendo las etapas pre y post cita. Aquí tienes un diagrama más completo que abarca todos esos procesos:
+
+```plaintext
++----------------------+
+| Inicio               |
+|                      |
+|                      |
+|    +--------------+  |
+|    |              |  |
+|    | Registrar    |  |
+|    | Empresa      |  |
+|    |              |  |
+|    +--------------+  |
+|            |         |
+|            v         |
+|    +--------------+  |
+|    | Mantenimiento|  |
+|    | de Enfermedades|
+|    +--------------+  |
+|            |         |
+|            v         |
+|    +--------------+  |
+|    | Mantenimiento|  |
+|    | de Procedimientos|
+|    +--------------+  |
+|            |         |
+|            v         |
+|    +--------------+  |
+|    | Toma de Citas|  |
+|    |              |  |
+|    +--------------+  |
+|            |         |
+|            v         |
+|    +--------------+  |
+|    | Preclínica   |  |
+|    |              |  |
+|    +--------------+  |
+|            |         |
+|            v         |
+|    +--------------+  |
+|    | Consulta     |  |
+|    | Médica       |  |
+|    +--------------+  |
+|            |         |
+|            v         |
+|    +--------------+  |
+|    | Post Consulta|  |
+|    |              |  |
+|    +--------------+  |
+|            |         |
+|            v         |
+|    +--------------+  |
+|    | Recetas      |  |
+|    | Médicas      |  |
+|    +--------------+  |
+|            |         |
+|            v         |
+|    +--------------+  |
+|    | Facturación  |  |
+|    |              |  |
++----------------------+
+```
+
+### Explicación del Diagrama de Flujo Detallado:
+
+1. **Registro de Empresa**:
+   - Proceso para registrar nuevas empresas o clínicas en el sistema médico.
+
+2. **Mantenimiento de Enfermedades**:
+   - Gestión de una lista de enfermedades y condiciones médicas en la base de datos.
+
+3. **Mantenimiento de Procedimientos**:
+   - Administración de los procedimientos médicos disponibles que pueden ser aplicados a los pacientes.
+
+4. **Toma de Citas**:
+   - Proceso para que los pacientes soliciten y se les asignen citas médicas con los doctores disponibles.
+
+5. **Preclínica**:
+   - Registro y toma de datos clínicos básicos antes de la consulta médica.
+
+6. **Consulta Médica**:
+   - Interacción entre el médico y el paciente durante la consulta, incluyendo diagnóstico y tratamiento.
+
+7. **Post Consulta**:
+   - Proceso posterior a la consulta médica que puede incluir recomendaciones de seguimiento, programación de nuevas citas, etc.
+
+8. **Recetas Médicas**:
+   - Generación y gestión de recetas médicas para los pacientes según lo prescrito por los médicos.
+
+9. **Facturación**:
+   - Proceso para generar y administrar facturas relacionadas con los servicios médicos prestados.
+
+Este diagrama proporciona una vista general de los flujos de trabajo en un sistema médico completo, desde la administración de datos maestros hasta la atención directa al paciente y la gestión administrativa. Cada proceso representa una parte esencial del ciclo de atención médica, facilitando una visión integral del funcionamiento del sistema.
